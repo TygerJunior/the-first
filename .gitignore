@@ -1,8 +1,8 @@
 # Build and Release Folders
 bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+
+# npm packages
+node_modules/
 
 # Other files and folders
 .settings/
